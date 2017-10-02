@@ -1,27 +1,13 @@
-#Rails sample app
+BlokeBlog
+===
 
-## Getting started
+## Deployment
 
-To get started with the app, clone the repo and then install the needed gems:
+https://blokeblog.herokuapp.com
 
-```
-$ bundle install --without production
-```
+## Description
 
-Next, migrate the database:
+Professional grade sample app featuring advanced security login and authentication framework. Registered users can create posts, upload pictures and follow other peoples activity.
 
-```
-$ rails db:migrate
-```
-
-Finally, run the test suite to verify that everything is working correctly:
-
-```
-$ rails test
-```
-
-If the test suite passes, you'll be ready to run the app in a local server:
-
-```
-$ rails server
-```
+## Tech Stack
+Built with Ruby on Rails, JavaScript, jQuery, Ajax, HTML5, SASS.
